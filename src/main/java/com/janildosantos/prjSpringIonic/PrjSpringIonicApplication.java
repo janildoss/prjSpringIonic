@@ -1,6 +1,6 @@
 package com.janildosantos.prjSpringIonic;
 
-import java.sql.Array;
+//import java.sql.Array;
 import java.util.Arrays;
 
 import org.springframework.beans.factory.annotation.Autowired;
